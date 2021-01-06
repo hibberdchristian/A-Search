@@ -3,4 +3,4 @@ An implementation of the [A* Search Algorithm](https://en.wikipedia.org/wiki/A*_
 
 **Preview**
 
-![](preview.gif)
+<img src="preview.gif" width="500">
