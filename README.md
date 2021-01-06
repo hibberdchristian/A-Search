@@ -4,3 +4,12 @@ An implementation of the [A* Search Algorithm](https://en.wikipedia.org/wiki/A*_
 **Preview**
 
 <img src="preview.gif" width="500">
+
+**Installation**
+
+```
+npm install http-server
+http-server
+```
+
+Now you can visit http://localhost:8080 to view.
